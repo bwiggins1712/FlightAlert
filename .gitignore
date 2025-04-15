@@ -1,0 +1,8 @@
+# Node
+node_modules/
+.env
+.DS_Store
+
+# TypeScript
+*.js.map
+*.js
